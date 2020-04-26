@@ -1,0 +1,1 @@
+This folder contained the Images that were used for training and validation
